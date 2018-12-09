@@ -36,6 +36,7 @@
 
 python/.idea
 python/venv
+python/BasicSkill/.vscode
 
 *.txt
 *.log
